@@ -1,7 +1,8 @@
+
 #!/usr/bin/env python3
-# Created By: Your Name
-# Date: Month Day, Year
-# Write what this program does.
+# Created By: Lia Duggan
+# Date: September Thursday, 2022
+# Prints Hello World with Style.
 
 def main():
     print("Hello World! with proper new style!")
